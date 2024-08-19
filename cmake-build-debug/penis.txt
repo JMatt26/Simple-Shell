@@ -1,0 +1,8 @@
+total 168
+-rwxr-xr-x   1 jaredmatthews  staff  53112 Oct 14 16:51 Ass1
+-rw-r--r--@  1 jaredmatthews  staff  12801 Oct  6 16:27 CMakeCache.txt
+drwxr-xr-x@ 11 jaredmatthews  staff    352 Oct 13 13:21 CMakeFiles
+drwxr-xr-x@  3 jaredmatthews  staff     96 Oct  6 16:27 Testing
+-rw-r--r--@  1 jaredmatthews  staff   8827 Oct 13 13:21 build.ninja
+-rw-r--r--@  1 jaredmatthews  staff   1634 Oct  6 16:27 cmake_install.cmake
+-rw-r--r--   1 jaredmatthews  staff      0 Oct 14 16:51 penis.txt
