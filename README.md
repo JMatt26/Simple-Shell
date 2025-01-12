@@ -16,3 +16,7 @@ Create the executable of shell.c and run the script
 - Simple Output Redirection
 - Simple Command Piping
 
+
+# Disclaimer
+The only file developed by myself is the ```shell.c```, all other files belong to McGill University's ECSE437
+
